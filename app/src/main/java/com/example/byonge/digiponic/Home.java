@@ -36,7 +36,7 @@ public class Home extends Activity {
         textair1 = (TextView) findViewById(R.id.Tada);
         textair2 = (TextView) findViewById(R.id.Ttank);
         getEmployee();
-
+///sudah ok
     }
 
     private void getEmployee() {
